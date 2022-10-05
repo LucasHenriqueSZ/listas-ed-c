@@ -1,7 +1,7 @@
 /*
-	ExercÌcio 3. Vers√£o recursiva de bubble sort
+	Exerc√≠cio 3. Vers√£o recursiva de bubble sort
 
- Crie a FunÁ„o recursiva bsr(v,n), que usa a funÁ„o empurra() e a estrategia do bubble
+ Crie a Fun√ß√£o recursiva bsr(v,n), que usa a fun√ß√£o empurra() e a estrategia do bubble
  sort, para organizar os n itens do vetor v em ordem crescente.
 */
 
